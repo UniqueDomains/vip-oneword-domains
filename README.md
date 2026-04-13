@@ -1,10 +1,10 @@
-# Available .VIP One-Word Domains (7,722)
+# Available .VIP One-Word Domains (7,725)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C726%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C722%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C725%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .vip one-word domains from Unique 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,726 rows · **Live catalog:** 7,722 domains
+**Public extract:** 7,726 rows · **Live catalog:** 7,725 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/vip`  
@@ -70,13 +70,13 @@ print(df.head())
 | bloody.vip        | available | $10.98    | —             | 110            | 13     | 6      | namecheap                                               |
 | temple.vip        | resell    | —         | —             | 66             | 82     | 6      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 | athletics.vip     | premium   | $325      | $16.90        | 69             | 52     | 9      | namecheap                                               |
-| easily.vip        | available | $10.98    | —             | 74             | 13     | 6      | namecheap                                               |
+| absent.vip        | available | $10.98    | —             | 102            | 12     | 6      | namecheap                                               |
 | affirm.vip        | resell    | —         | —             | 80             | 81     | 6      | Spaceship, Inc.                                         |
 | all.vip           | premium   | $6,250    | $22.99        | 88             | 48     | 3      | name.com                                                |
-| absent.vip        | available | $10.98    | —             | 102            | 12     | 6      | namecheap                                               |
+| easily.vip        | available | $10.98    | —             | 74             | 12     | 6      | namecheap                                               |
 | box.vip           | resell    | —         | —             | 68             | 78     | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | law.vip           | premium   | $6,500    | $16.90        | 82             | 46     | 3      | namecheap                                               |
-| earned.vip        | available | $10.98    | —             | 72             | 12     | 6      | namecheap                                               |
+| earned.vip        | available | $10.98    | —             | 72             | 11     | 6      | namecheap                                               |
 | discover.vip      | resell    | —         | —             | 66             | 75     | 8      | Dynadot Inc                                             |
 | track.vip         | premium   | $3,125    | $22.99        | 94             | 42     | 5      | name.com                                                |
 | contingent.vip    | available | $10.98    | —             | 80             | 9      | 10     | namecheap                                               |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,726-row public sample | 7,722 live domains                               |
+| 7,726-row public sample | 7,725 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
