@@ -1,22 +1,22 @@
-# Available .VIP One-Word Domains (7,725)
+# Available .VIP One-Word Domains (10,029)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C726%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C725%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C029%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .vip one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .vip one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,029 domains** on the canonical page below.
 
-**Public extract:** 7,726 rows · **Live catalog:** 7,725 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,029 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/vip`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .VIP one-word domain c
 
 ### Files
 
-- `vip.csv` — public CSV extract (7,726 rows)
-- `vip.json` — public JSON extract (7,726 rows)
+- `vip.csv` — public CSV extract (1,000 rows)
+- `vip.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| moveon.vip        | available | $10.98    | —             | 72             | 14     | 7      | namecheap                                               |
-| defend.vip        | resell    | —         | —             | 76             | 98     | 6      | Spaceship, Inc.                                         |
-| seventeen.vip     | premium   | $218.75   | $22.99        | 84             | 62     | 9      | name.com                                                |
-| bloody.vip        | available | $10.98    | —             | 110            | 13     | 6      | namecheap                                               |
-| temple.vip        | resell    | —         | —             | 66             | 82     | 6      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| athletics.vip     | premium   | $325      | $16.90        | 69             | 52     | 9      | namecheap                                               |
-| absent.vip        | available | $10.98    | —             | 102            | 12     | 6      | namecheap                                               |
-| affirm.vip        | resell    | —         | —             | 80             | 81     | 6      | Spaceship, Inc.                                         |
-| all.vip           | premium   | $6,250    | $22.99        | 88             | 48     | 3      | name.com                                                |
-| easily.vip        | available | $10.98    | —             | 74             | 12     | 6      | namecheap                                               |
-| box.vip           | resell    | —         | —             | 68             | 78     | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| law.vip           | premium   | $6,500    | $16.90        | 82             | 46     | 3      | namecheap                                               |
-| earned.vip        | available | $10.98    | —             | 72             | 11     | 6      | namecheap                                               |
-| discover.vip      | resell    | —         | —             | 66             | 75     | 8      | Dynadot Inc                                             |
-| track.vip         | premium   | $3,125    | $22.99        | 94             | 42     | 5      | name.com                                                |
-| contingent.vip    | available | $10.98    | —             | 80             | 9      | 10     | namecheap                                               |
-| adam.vip          | resell    | —         | —             | 66             | 70     | 4      | Go China Domains Inc                                    |
-| eternal.vip       | premium   | $125      | $22.99        | 92             | 41     | 7      | name.com                                                |
-| greenbuilding.vip | available | $10.98    | —             | 76             | 9      | 14     | namecheap                                               |
-| news.vip          | resell    | —         | —             | 100            | 64     | 4      | Dynadot Inc                                             |
+| keepthechange.vip | available | $10.98    | —             | 46             | 59     | 15     | namecheap                                               |
+| profile.vip       | resell    | —         | —             | 76             | 32     | 7      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| farmers.vip       | premium   | $1,250    | —             | 54             | 59     | 7      | name.com                                                |
+| moveup.vip        | available | $10.98    | —             | 79             | 14     | 7      | namecheap                                               |
+| heroes.vip        | resell    | —         | —             | 68             | 29     | 6      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| Flowers.vip       | premium   | $3,500    | $21           | 72             | 39     | 7      | namecheap                                               |
+| forces.vip        | available | $10.98    | —             | 82             | 12     | 6      | namecheap                                               |
+| trades.vip        | resell    | —         | —             | 71             | 26     | 6      | Sav.com, LLC - 22                                       |
+| SanDiego.vip      | premium   | $3,125    | —             | 74             | 29     | 9      | name.com                                                |
+| plated.vip        | available | $10.98    | —             | 66             | 11     | 6      | namecheap                                               |
+| flights.vip       | resell    | —         | —             | 61             | 22     | 7      | Dynadot Inc                                             |
+| Jim.vip           | premium   | $7,000    | $21           | 78             | 28     | 3      | namecheap                                               |
+| Curves.vip        | available | $10.98    | —             | 51             | 11     | 6      | namecheap                                               |
+| tape.vip          | resell    | —         | —             | 72             | 21     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| pages.vip         | premium   | $3,125    | —             | 52             | 28     | 5      | name.com                                                |
+| panels.vip        | available | $4.99     | $19.49        | 48             | 11     | 6      | namesilo                                                |
+| studios.vip       | resell    | —         | —             | 54             | 21     | 7      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| backyard.vip      | premium   | $218.75   | —             | 80             | 27     | 9      | name.com                                                |
+| gowild.vip        | available | $10.98    | —             | 74             | 10     | 7      | namecheap                                               |
+| leading.vip       | resell    | —         | —             | 88             | 20     | 7      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,726-row public sample | 7,725 live domains                               |
+| 1,000-row public sample | 10,029 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIP One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIP One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
