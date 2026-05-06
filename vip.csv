@@ -24,6 +24,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 012c1e60-6e2f-4a62-aa77-24494a7ff835,pursues.vip,available,4.99,19.49,58,1,7,namesilo,,
 01476f18-e253-4d00-b13f-9d484bb9c06c,coffeecupful.vip,available,4.99,19.49,80,1,12,namesilo,,
 0148a82e-69d8-418c-a893-66a13aa0acb2,dustbunnies.vip,premium,218.75,,38,5,12,name.com,,
+0152a3ea-d65e-4a00-8ee6-ade877874592,plug.vip,resell,,,74,27,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),05/05/2017 06:53,05/05/2027 06:53
 01652009-2b40-4e63-a1fb-10ecd56db185,verbalization.vip,available,10.98,,58,1,13,namecheap,,
 01919c48-3c11-4352-8812-649e4d4f1516,proxyfight.vip,available,10.98,,44,1,11,namecheap,,
 01da4a40-c659-4d2b-80fd-08aad6c3f165,believes.vip,premium,218.75,,64,4,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c0c9789-b350-4359-99fa-88149e1fa7f5,bloodpressuregage.vip,available,10.98,,48,1,19,namecheap,,
 5c117760-0c36-4e62-a440-e8338e0106d4,fires.vip,premium,218.75,,46,10,5,name.com,,
 5c2a9c5d-740b-4a80-a011-31358e00be1e,rollover.vip,premium,218.75,,75,8,9,name.com,,
-5c32d6af-d088-4ccf-b46e-fe586009be74,clinics.vip,premium,116,17.7,56,12,7,namesilo,,
