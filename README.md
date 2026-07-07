@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .vip one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,374 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,374 domains · **Median ask:** $344.22 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,374 domains · **Median ask:** $565.50 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/vip`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/vip`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VIP one-word domain c
 
 ### Files
 
-- `vip.csv` — public CSV extract (1,000 rows)
-- `vip.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `vip.csv`, public CSV extract (1,000 rows)
+- `vip.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| forces.vip   | available | $10.98    | —             | 82             | 12     | 6      | namecheap                                               |
-| open.vip     | resell    | —         | —             | 70             | 59     | 4      | Gname.com Pte. Ltd.                                     |
-| Flowers.vip  | premium   | $3,500    | $21           | 72             | 40     | 7      | namecheap                                               |
-| plated.vip   | available | $10.98    | —             | 66             | 11     | 6      | namecheap                                               |
-| one.vip      | resell    | —         | —             | 84             | 50     | 3      | Gname.com Pte. Ltd.                                     |
-| pages.vip    | premium   | $3,125    | —             | 52             | 28     | 5      | name.com                                                |
-| panels.vip   | available | $4.99     | $19.49        | 48             | 11     | 6      | namesilo                                                |
-| profile.vip  | resell    | —         | —             | 76             | 32     | 7      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| KFC.vip      | premium   | $7,000    | $21           | 74             | 27     | 3      | namecheap                                               |
-| godeep.vip   | available | $10.98    | —             | 74             | 10     | 7      | namecheap                                               |
-| heroes.vip   | resell    | —         | —             | 68             | 29     | 6      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| bees.vip     | premium   | $218.75   | —             | 54             | 27     | 4      | name.com                                                |
-| breaks.vip   | available | $10.98    | —             | 52             | 10     | 6      | namecheap                                               |
-| plug.vip     | resell    | —         | —             | 74             | 27     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| doctors.vip  | premium   | $3,125    | —             | 56             | 26     | 7      | name.com                                                |
-| steroids.vip | available | $4.99     | $19.49        | 50             | 10     | 8      | namesilo                                                |
-| trades.vip   | resell    | —         | —             | 71             | 26     | 6      | Sav.com, LLC - 22                                       |
-| pops.vip     | premium   | $302.50   | $17.70        | 74             | 24     | 4      | namesilo                                                |
-| splits.vip   | available | $4.99     | $19.49        | 70             | 9      | 6      | namesilo                                                |
-| flights.vip  | resell    | —         | —             | 61             | 22     | 7      | Dynadot Inc                                             |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| abkhas.vip | available | $10.98    | —             | medium         | low    | 6      | namecheap                                               |
+| ape.vip    | resell    | —         | —             | medium         | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| awe.vip    | premium   | $6,250    | —             | high           | low    | 3      | name.com                                                |
+| abkhaz.vip | available | $7.98     | —             | high           | low    | 6      | namecheap                                               |
+| beg.vip    | resell    | —         | —             | medium         | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| ben.vip    | premium   | $6,250    | —             | high           | medium | 3      | name.com                                                |
+| abrupt.vip | available | $7.98     | —             | high           | low    | 6      | namecheap                                               |
+| Bets.vip   | resell    | —         | —             | high           | low    | 4      | Gname.com Pte. Ltd.                                     |
+| bug.vip    | premium   | $6,250    | —             | high           | low    | 3      | name.com                                                |
+| agreed.vip | available | $4.99     | $19.49        | high           | low    | 6      | namesilo                                                |
+| Iam.vip    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                             |
+| dew.vip    | premium   | $6,250    | —             | medium         | low    | 3      | name.com                                                |
+| asleep.vip | available | $10.98    | —             | high           | low    | 6      | namecheap                                               |
+| paul.vip   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                             |
+| dig.vip    | premium   | $6,250    | —             | high           | low    | 3      | name.com                                                |
+| bouncy.vip | available | $4.99     | $19.49        | high           | low    | 6      | namesilo                                                |
+| save.vip   | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| IDK.vip    | premium   | $6,250    | —             | medium         | low    | 3      | name.com                                                |
+| cutto.vip  | available | $4.99     | $19.49        | medium         | low    | 6      | namesilo                                                |
+| teen.vip   | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .vip domains. The strongest names tend to be clear dictionary words, easy to say, and broad enough to support more than one use case. Examples here range from punchy terms like slip.vip and cover.vip to more abstract words like attitude.vip and qualitative.vip. With a median ask of $344.22 across 10,362 domains, the key question is not just price, but whether the word feels memorable, commercially flexible, and clean enough to justify the extension. When comparing these domains, prioritize clarity, recall, and whether the word still sounds credible with .vip attached.
+This set includes 10,374 one-word and compound-word .vip domain names, ranging from playful picks like jollyalong.vip and gingerbread.vip to recognizable terms such as WonderWoman.vip and inspiration.vip. Median asking price across the list sits near $565, giving a practical baseline for comparing individual names. The .vip extension leans toward short, memorable, easy-to-spell names — useful for founders building a brand and for investors mapping pricing patterns across a single-TLD set. Updated daily, the list reflects current asking prices as sellers adjust listings.
 
-- Prioritize clean, memorable words that fit naturally with .vip
-- Compare ask price against word strength, not length alone
-- Broad terms like cover.vip can age better than narrow phrases
-- Check for trademark exposure before treating a name as ownable
+- 10,374 one-word .vip domain names in this set
+- Median asking price near $565 across the list
+- Playful, cultural, and everyday-word .vip names
+- Updated daily for current pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIP One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIP One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
