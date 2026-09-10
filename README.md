@@ -1,10 +1,10 @@
-# Available .VIP One-Word Domains (18,508)
+# Available .VIP One-Word Domains (19,245)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C508%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C245%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vip one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,508 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,245 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,508 domains · **Median ask:** $349.88 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 19,245 domains · **Median ask:** $342.22 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-09
+**Last updated:** 2026-09-10
 **Canonical page:** `https://unique.domains/domains/tld/vip`
 **Best for:** founders, investors, studios
 
@@ -65,6 +65,9 @@ print(df.head())
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
 | correct.vip | premium   | $1,250    | $22.99        | high           | low    | 7      | name.com                                                |
+| soft.vip    | premium   | $6,250    | $22.99        | high           | low    | 4      | name.com                                                |
+| wrong.vip   | premium   | $3,125    | —             | high           | low    | 5      | name.com                                                |
+| ground.vip  | resell    | —         | —             | high           | low    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | atilt.vip   | available | $4.98     | $10.98        | low            | low    | 5      | namecheap                                               |
 | veggie.vip  | resell    | $4.99     | $19.49        | medium         | low    | 6      | Spaceship, Inc.                                         |
 | abo.vip     | premium   | $6,250    | $24.99        | low            | low    | 3      | name.com                                                |
@@ -81,9 +84,6 @@ print(df.head())
 | Iam.vip     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                             |
 | dew.vip     | premium   | $6,250    | —             | medium         | low    | 3      | name.com                                                |
 | xxvii.vip   | available | $4.98     | $10.98        | low            | low    | 5      | namecheap                                               |
-| paul.vip    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                             |
-| dig.vip     | premium   | $6,250    | —             | high           | low    | 3      | name.com                                                |
-| abkhas.vip  | available | $4.98     | $10.98        | low            | low    | 6      | namecheap                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 18,508 live domains                        |
+| 1,000-row public sample | 19,245 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIP One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIP One-Word Domains*. Version 2026-09-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
