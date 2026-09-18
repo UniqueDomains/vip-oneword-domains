@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vip one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,861 domains · **Median ask:** $307.22 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/vip`
 **Best for:** founders, investors, studios
 
@@ -66,6 +66,8 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
 | correct.vip | premium   | $1,250    | $22.99        | high           | low    | 7      | name.com                                                |
 | soft.vip    | premium   | $6,250    | $22.99        | high           | low    | 4      | name.com                                                |
+| wrong.vip   | premium   | $3,125    | —             | high           | low    | 5      | name.com                                                |
+| ground.vip  | resell    | —         | —             | high           | low    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | atilt.vip   | available | $4.98     | $10.98        | low            | low    | 5      | namecheap                                               |
 | veggie.vip  | resell    | $4.99     | $19.49        | medium         | low    | 6      | Spaceship, Inc.                                         |
 | abo.vip     | premium   | $6,250    | $24.99        | low            | low    | 3      | name.com                                                |
@@ -82,8 +84,6 @@ print(df.head())
 | Iam.vip     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                             |
 | dew.vip     | premium   | $6,250    | —             | medium         | low    | 3      | name.com                                                |
 | xxvii.vip   | available | $4.98     | $10.98        | low            | low    | 5      | namecheap                                               |
-| paul.vip    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                             |
-| dig.vip     | premium   | $6,250    | —             | high           | low    | 3      | name.com                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIP One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIP One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
