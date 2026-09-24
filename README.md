@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vip one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,754 domains · **Median ask:** $292.89 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/vip`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| atilt.vip  | available | $4.98     | $10.98        | low            | low    | 5      | namecheap                                               |
-| veggie.vip | resell    | $4.99     | $19.49        | medium         | low    | 6      | Spaceship, Inc.                                         |
-| abo.vip    | premium   | $6,250    | $24.99        | low            | low    | 3      | name.com                                                |
-| awned.vip  | available | $4.98     | $10.98        | low            | low    | 5      | namecheap                                               |
-| ape.vip    | resell    | —         | —             | medium         | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| awe.vip    | premium   | $6,250    | —             | high           | low    | 3      | name.com                                                |
-| axile.vip  | available | $4.98     | $10.98        | low            | low    | 5      | namecheap                                               |
-| beg.vip    | resell    | —         | —             | medium         | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| ben.vip    | premium   | $6,250    | —             | high           | medium | 3      | name.com                                                |
-| clxxx.vip  | available | $4.98     | $10.98        | low            | low    | 5      | namecheap                                               |
-| bets.vip   | resell    | —         | —             | high           | low    | 4      | Gname.com Pte. Ltd.                                     |
-| bug.vip    | premium   | $6,250    | —             | high           | low    | 3      | name.com                                                |
-| nitid.vip  | available | $4.98     | $10.98        | low            | low    | 5      | namecheap                                               |
-| iam.vip    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                             |
-| dew.vip    | premium   | $6,250    | —             | medium         | low    | 3      | name.com                                                |
-| xxvii.vip  | available | $4.98     | $10.98        | low            | low    | 5      | namecheap                                               |
-| paul.vip   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                             |
-| dig.vip    | premium   | $6,250    | —             | high           | low    | 3      | name.com                                                |
-| abkhas.vip | available | $4.98     | $10.98        | low            | low    | 6      | namecheap                                               |
-| save.vip   | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| amort.vip | available | $4.98     | $10.98        | medium         | low    | 5      | namecheap                                               |
+| ape.vip   | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| abo.vip   | premium   | $6,250    | $24.99        | high           | low    | 3      | name.com                                                |
+| atilt.vip | available | $4.98     | $10.98        | medium         | low    | 5      | namecheap                                               |
+| beg.vip   | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| atp.vip   | premium   | $6,250    | —             | high           | low    | 3      | name.com                                                |
+| axile.vip | available | $4.98     | $10.98        | medium         | low    | 5      | namecheap                                               |
+| bets.vip  | resell    | —         | —             | high           | low    | 4      | Gname.com Pte. Ltd.                                     |
+| awe.vip   | premium   | $6,250    | —             | high           | low    | 3      | name.com                                                |
+| clxxx.vip | available | $4.98     | $10.98        | medium         | low    | 5      | namecheap                                               |
+| fact.vip  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                             |
+| ben.vip   | premium   | $6,250    | —             | high           | medium | 3      | name.com                                                |
+| nitid.vip | available | $4.98     | $10.98        | medium         | low    | 5      | namecheap                                               |
+| iam.vip   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                             |
+| bug.vip   | premium   | $6,250    | —             | high           | low    | 3      | name.com                                                |
+| rotfl.vip | available | $4.99     | $19.49        | medium         | low    | 5      | namesilo                                                |
+| move.vip  | resell    | —         | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| cot.vip   | premium   | $6,250    | —             | high           | low    | 3      | name.com                                                |
+| xxvii.vip | available | $4.98     | $10.98        | medium         | low    | 5      | namecheap                                               |
+| paul.vip  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIP One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIP One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
